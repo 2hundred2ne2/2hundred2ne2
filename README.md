@@ -1,5 +1,5 @@
 -   ✨👋, I’m myeongji ✨
--   ✨ I’m majoring in 💻 at university✨
+-   ✨ I’m majored in 💻 science at university✨
 -   ✨ I’m 👀ing for job ✨  
 -   ✨ I’m currently learning java programing 🌱✨ 
 -   ✨ I'm a java Developer ✨    
