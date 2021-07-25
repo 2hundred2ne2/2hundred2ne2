@@ -1,4 +1,4 @@
--   ✨👋, I’m myeongji ✨
+-   ✨👋, I’m Myeongji ✨
 -   ✨ I’m majored in 💻 science at university✨
 -   ✨ I’m 👀ing for job ✨  
 -   ✨ I’m currently learning java programing 🌱✨ 
