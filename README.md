@@ -6,7 +6,7 @@
   
   ✨ I’m currently learning java programing 🌱✨ 
   
-  ✨ I'm a java Developer ✨    
+<!--- ✨ I'm a java Developer ✨  --->  
 
 ### 🛠  Tech Stack
  👩‍💻 Languages
