@@ -1,8 +1,6 @@
   ✨👋, I’m Myeongji ✨
   
   ✨ I majored in 💻 science at university✨
-
- ### ✨ I’m 👀ing for job ✨  
   
   ✨ I’m currently learning java programing 🌱✨ 
   
