@@ -2,7 +2,7 @@
   
   ✨ I majored in 💻 science at university✨
 
-  ✨ I’m 👀ing for job ✨  
+ ### ✨ I’m 👀ing for job ✨  
   
   ✨ I’m currently learning java programing 🌱✨ 
   
