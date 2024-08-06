@@ -1,10 +1,4 @@
-  ✨👋, I’m Myeongji ✨
-  
-  ✨ I majored in 💻 science at university✨
-  
-  ✨ I’m currently learning java programing 🌱✨ 
-  
-<!--- ✨ I'm a java Developer ✨  --->  
+
 
 ### 🛠  Tech Stack
  👩‍💻 Languages
